@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "4f753c8f13d646c8ff14213274fa111a"
+build_time: [1586330663, 392576000]
+inputs:
+  "/Users/GuoYanjun/Desktop/TestDemo/flutterapp01/ios/Runner/AppDelegate.swift": [1569118666, 0]

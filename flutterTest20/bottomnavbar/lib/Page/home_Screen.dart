@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+class HomeScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(
+          'Home',
+          ),
+        ),
+        body: Center(
+          child: Text(
+            'home',
+            style: TextStyle(
+              color: Colors.blue,
+              backgroundColor: Colors.yellow
+              )
+          ),
+        ),
+    );
+  }
+}

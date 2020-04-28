@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "c3aeab938deebf364daa586d64425356"
+build_time: [1588040856, 785892000]
+inputs:
+  "/Users/GuoYanjun/Desktop/Git/GitHub/flutter-test-demo/flutterTest20/bottomnavbar1/ios/Runner/AppDelegate.swift": [1569118666, 0]
